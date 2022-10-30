@@ -104,10 +104,12 @@ border-bottom: 1px solid #ECECEC;
   display: flex;
   gap: 50px;
 }
+
 .logo:hover,
 .logo:focus {
   color: var(--accent-color);
 }
+
 .logo {
   font-family: "Raleway", sans-serif;
   font-style: normal;
@@ -135,6 +137,7 @@ border-bottom: 1px solid #ECECEC;
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
+
   display: flex;
   align-items: baseline;
   padding: 32px 0;
@@ -151,6 +154,7 @@ border-bottom: 1px solid #ECECEC;
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
+
   display: flex;
   padding-top: 32px;
   padding-bottom: 32px;
@@ -167,6 +171,7 @@ border-bottom: 1px solid #ECECEC;
 .hero {
   padding: 200px 0;
   text-align: center;
+
   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero-bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
@@ -180,6 +185,7 @@ border-bottom: 1px solid #ECECEC;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
+
   text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -198,6 +204,7 @@ border-bottom: 1px solid #ECECEC;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
+
   display: flex;
   align-items: center;
   text-align: center;
@@ -260,7 +267,6 @@ margin-bottom: 30px;
 }
 
 /* -------Works------- */
-
 
 
 .works-title{
